@@ -1,0 +1,8 @@
+.navbar_container{
+    /* padding: 1rem; */
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 4rem;
+    margin-left: 50%;
+    padding: 40px;
+}
